@@ -1,18 +1,18 @@
-# PurePlatelance ( HealthTracker )
+# PurePlate ( HealthTracker )
 > Your Wellness Partner
  ![leaf](https://github.com/YoussefAboelwafa/NutriBalance_HealthTracker/assets/96186143/3d130709-dcb0-4838-8dba-82abc9080215)
 
-<h1>Welcome to PurePlatelance <i class="fa fa-leaf"></i></h1>
+<h1>Welcome to PurePlate <i class="fa fa-leaf"></i></h1>
       <p>
-        PurePlatelance is your personal health tracker application. Our mission is
+        PurePlate is your personal health tracker application. Our mission is
         to help you maintain a balanced and healthy lifestyle. With
-        PurePlatelance, you can calculate your Guideline Daily Amount (GDA),
+        PurePlate, you can calculate your Guideline Daily Amount (GDA),
         choose from a variety of diet plans, and track your weight progress.
       </p>
       <p>
         Our application provides a personalized experience, tailored to your
         unique health needs and goals. Whether you're looking to lose weight,
-        gain muscle, or simply maintain a healthy lifestyle, PurePlatelance is
+        gain muscle, or simply maintain a healthy lifestyle, PurePlate is
         here to support you on your journey.
       </p>
       <div class="features">
