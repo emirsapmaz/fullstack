@@ -1,0 +1,9 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google: # Bu kısım, hangi OAuth2 sağlayıcısını kullandığınıza bağlı olarak değişir (örneğin google, facebook)
+            clientId: 1069204851497-oacebc9ssc3hqreumb3t85a7pkdr6tl3.apps.googleusercontent.com
+            clientSecret: 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
+            
